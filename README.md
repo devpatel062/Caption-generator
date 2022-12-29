@@ -1,5 +1,5 @@
-# Caption generator
- Caption generator using AI/ML in Python
+# IMAGE CAPTION GENERATOR USING DEEP LEARNING
+ 
 
 SOFTWARE  REQUIREMENTS 
 SPECIFICATION  DOCUMENT
